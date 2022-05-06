@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+}
+
+#container{
+    width: 996px;
+    height: 616px;
+    margin: 0 auto;
+}
+
+#banner{
+    width: 80%;
+    height: 187px;
+    background:aquamarine;
+    color: black;
+}
+
+#botoes{
+    width: 100px;
+    height: 800px;
+    background:crimson;
+}
+
+#texto{
+    width: 230px;
+    height: 800px;
+    margin-top: -800px;
+    margin-left: 100px;
+    background:dodgerblue;
+}
+
+#video1{
+    width: 230px;
+    height: 400px;
+    margin-top: -800px;
+    margin-left: 330px;
+    background:hotpink;
+}
+
+#video3{
+    width: 230px;
+    height: 400px;
+    margin: auto -1800px;
+    margin-left: 330px;
+    background:salmon;
+}
+#video2{
+    width: 236px;
+    height: 400px;
+    margin-top: -1800px;
+    margin-left: 560px;
+    background:mediumseagreen;
+}
+
+#video4{
+    width: 236px;
+    height: 400px;
+    margin: auto 1200px;
+    margin-left: 560px;
+    background:yellow;
+}
